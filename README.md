@@ -1,0 +1,2 @@
+# vagrant-nodedev
+vagrant-nodedev
